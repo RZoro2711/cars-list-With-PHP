@@ -1,0 +1,14 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.card{
+    border-radius: 10%;
+    background-color: darkslategray;
+}
+.card-body{
+    text-align: center;
+    /* border: 1px solid black; */
+    margin-right: 12px;
+}
